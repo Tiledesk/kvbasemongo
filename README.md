@@ -1,4 +1,4 @@
-# Tiledesk ley-value database adapter for MongoDB
+# Tiledesk key-value database adapter for MongoDB
 
 This class uses a MongoDB collection as a very simple key-value storage.
 It only provides basic methods: set(), get(), remove()
