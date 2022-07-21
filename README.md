@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/%40tiledesk%2Ftiledesk-kvbasemongo.svg)](https://badge.fury.io/js/%40tiledesk%2Ftiledesk-kvbasemongo)
 # Tiledesk key-value database adapter for MongoDB
 
 This class uses a MongoDB collection as a very simple key-value storage.
